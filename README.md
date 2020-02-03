@@ -2,9 +2,9 @@
 Machine Learning using Python
 
 Implementations of Machine Learning techniques
-- linear regression model
-- gradient decent
-- logistic regression model
+- Linear & Logistic regression model
+- Shallow & Deep Neural Networks
+- Convolutional neural network
+- Recurrent neural network
 - support vector machine
-- shallow neural networks
-- deep neural networks
+- Principal Component Analysis & K-means
